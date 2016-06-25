@@ -1,0 +1,18 @@
+{
+	"name": "hello-world-polymer",
+	"version": "v1.0.0-alpha",
+	"description": "Just a hellow world page using Polymer.",
+	"authors": "Rhody Lugo",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rraallvv/hello-world-polymer"
+	},
+	"devDependencies": {
+		"Polymer": "^1.0.0",
+		"webcomponents.js": "^0.7.2"
+	},
+	"scripts": {
+		"start": "node server 8080"
+	}
+}
